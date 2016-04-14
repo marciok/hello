@@ -1,4 +1,4 @@
-module hello {
+module Hello {
   header "CSource/Hello.h"
   link "Hello"
   export *
