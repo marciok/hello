@@ -1,5 +1,5 @@
 module hello {
-  header "Hello/Hello.h"
+  header "CSource/Hello.h"
   link "Hello"
   export *
 }
